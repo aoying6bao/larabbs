@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div class="container">
+<div class="container" style="margin-bottom:100px">
   <div class="col-md-10 offset-md-1">
     <div class="card ">
       <div class="card-header">
